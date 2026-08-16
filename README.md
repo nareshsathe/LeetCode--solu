@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nareshsathe/LeetCode--solu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -13,10 +14,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nareshsathe/LeetCode--solu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nareshsathe/LeetCode--solu/tree/master/0628-maximum-product-of-three-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
