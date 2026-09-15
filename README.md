@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nareshsathe/LeetCode--solu/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nareshsathe/LeetCode--solu/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/nareshsathe/LeetCode--solu/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/nareshsathe/LeetCode--solu/tree/master/0141-linked-list-cycle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nareshsathe/LeetCode--solu/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/nareshsathe/LeetCode--solu/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nareshsathe/LeetCode--solu/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nareshsathe/LeetCode--solu/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nareshsathe/LeetCode--solu/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
