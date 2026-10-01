@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nareshsathe/LeetCode--solu/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nareshsathe/LeetCode--solu/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
