@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nareshsathe/LeetCode--solu/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nareshsathe/LeetCode--solu/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nareshsathe/LeetCode--solu/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nareshsathe/LeetCode--solu/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nareshsathe/LeetCode--solu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/nareshsathe/LeetCode--solu/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nareshsathe/LeetCode--solu/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nareshsathe/LeetCode--solu/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/nareshsathe/LeetCode--solu/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nareshsathe/LeetCode--solu/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
