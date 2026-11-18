@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nareshsathe/LeetCode--solu/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nareshsathe/LeetCode--solu/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
